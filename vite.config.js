@@ -6,5 +6,5 @@ export default defineConfig({
     tailwindcss(),
     
   ],
-  base:"/Travel-Tailwind",
+  base:"/lazyloading",
 })
